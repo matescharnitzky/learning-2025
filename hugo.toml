@@ -1,0 +1,4 @@
+baseURL = 'https://matescharnitzky.github.io/learning-2025/'
+languageCode = 'en-us'
+title = 'Mate Scharnitzky'
+theme = 'hugo-bearblog'
